@@ -1,0 +1,13 @@
+body{background-color: lightgoldenrodyellow;}
+h1{
+	font-size: 30px;
+	color: teals;
+}
+
+h2{
+	font-size: 20px;
+	color: coral;
+}
+.big{font-size: 60px}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{color: navy }
